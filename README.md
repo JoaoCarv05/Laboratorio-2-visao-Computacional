@@ -1,6 +1,6 @@
 # Laboratório 2 – Extração de Características (Features)
 
-**ESZA019 – Visão Computacional — 2026.2**
+** – Visão Computacional — 2026.2**
 
 ## Descrição
 
@@ -11,19 +11,6 @@ Este repositório contém o relatório e os códigos do Laboratório 2 da discip
 - `Lab2_Features.ipynb` — Relatório completo em formato Jupyter Notebook
 - `sift_webcam.py` — Script standalone para SIFT matching em tempo real com duas webcams
 - `imagens/` — Imagens utilizadas nos experimentos e resultados gerados
-
-## Tópicos Abordados
-
-1. **Fundamentação Teórica**
-   - Detector de Harris (Harris Corner Detector)
-   - Detector de Shi-Tomasi (Good Features to Track)
-   - SIFT (Scale-Invariant Feature Transform)
-
-2. **Experimentos Práticos**
-   - Detecção de cantos com Harris e Shi-Tomasi
-   - Detecção de keypoints SIFT
-   - Feature Matching + Homografia para detecção de objetos
-   - SIFT matching em tempo real com webcams
 
 ## Requisitos
 
@@ -42,10 +29,6 @@ jupyter notebook Lab2_Features.ipynb
 ```bash
 python sift_webcam.py
 ```
-
-## Autor
-
-- João Victor de Castro Carvalho
 
 ## Referências
 
