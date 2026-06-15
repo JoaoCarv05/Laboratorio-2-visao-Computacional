@@ -1,6 +1,6 @@
 # Laboratório 2 – Extração de Características (Features)
 
-** – Visão Computacional — 2026.2**
+** Visão Computacional 2026.2**
 
 ## Descrição
 
@@ -28,10 +28,4 @@ jupyter notebook Lab2_Features.ipynb
 ### Script Webcam (requer duas webcams)
 ```bash
 python sift_webcam.py
-```
-
-## Referências
-
-- [OpenCV Feature Detection and Description](https://docs.opencv.org/4.x/db/d27/tutorial_py_table_of_contents_feature2d.html)
-- [Feature Matching + Homography](https://docs.opencv.org/4.x/d1/de0/tutorial_py_feature_homography.html)
-- Lowe, D. G. (2004). "Distinctive Image Features from Scale-Invariant Keypoints"
+```
